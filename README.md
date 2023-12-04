@@ -26,19 +26,19 @@ I`m 17 and I'm currently doing my bachelor's degree in software engineering (**K
 5. Press **Clone**
 
 ## To run code in terminal write
-.\task_one.py
-.\task_two.py
-.\task_three.py
-.\task_four.py
-.\task_five.py
-.\task_six.py
-.\kate_pril_task_one.py
-.\kate_pril_task_two.py
-.\kate_pril_task_three.py
-.\kate_pril_task_four.py
-.\kate_pril_task_five.py
-.\kate_pril_task_six.py
-.\kate_pril-1.py
-.\kate_pril-2.py
-.\kate_pril-3.py
+.\task_one.py <br/>
+.\task_two.py<br/>
+.\task_three.py<br/>
+.\task_four.py<br/>
+.\task_five.py<br/>
+.\task_six.py<br/>
+.\kate_pril_task_one.py<br/>
+.\kate_pril_task_two.py<br/>
+.\kate_pril_task_three.py<br/>
+.\kate_pril_task_four.py<br/>
+.\kate_pril_task_five.py<br/>
+.\kate_pril_task_six.py<br/>
+.\kate_pril-1.py<br/>
+.\kate_pril-2.py<br/>
+.\kate_pril-3.py<br/>
 .\kate_pril-4.py
